@@ -6,5 +6,6 @@ class A
 		
 		System.out.println("second line");
                 System.out.println("temp');
+		System.out.print("4");
 	}
 }
